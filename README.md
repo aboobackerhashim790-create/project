@@ -1,3 +1,4 @@
+ HEAD
 # MVC Starter Project
 
 Starter structure for a project with a separate Express backend and frontend. Backend business logic belongs in `backend/src/services`; controllers handle HTTP requests and responses.
@@ -12,3 +13,8 @@ Starter structure for a project with a separate Express backend and frontend. Ba
 - `frontend/src` — UI pages, reusable components, and API clients
 
 See each app folder README for suggested setup commands.
+
+# Competition Project
+
+Shared project for our three-member team.
+ acb5d55f4e9f2f179628eefcf5d8ba3e869e0ae5
